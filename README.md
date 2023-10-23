@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omkarmohanta50
-- 👀 I’m interested in ...C, JAVA, and machine learning
+- 👀 I’m interested in ...PYTHON, JAVA, and machine learning
 - 🌱 I’m currently learning ...machine learning
 - 💞️ I’m looking to collaborate on ... simple machine learning based projects
 - 📫 How to reach me ...omkarmohanta5060@gmal.com
