@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 - Language
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,py,kotlin,js,react,nodejs,nextjs,spring,flask,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,c,py,js,react,nodejs,nextjs,spring,express,nestjs" />
   </a>
 </p>
 
@@ -53,14 +53,14 @@ You can click the Preview link to take a look at your changes.
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=firebase,aws,azure,gcp,cloudflare" />
   </a>
 </p>
 
